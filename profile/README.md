@@ -15,7 +15,7 @@ React, Spring Boot, Terraform 등 실제 서비스에 사용되는 기술을 기
 ## 🛠️ 사용 기술
 
 - 🎨 **Frontend**: React, TypeScript, Vite  
-- 🧩 **Backend**: Spring Boot, JPA  
+- 🧩 **Backend**: Spring Boot, Go
 - 🏗️ **Infra**: Terraform, k8s
 - 🔄 **CI/CD**: GitHub Actions, Docker
 
